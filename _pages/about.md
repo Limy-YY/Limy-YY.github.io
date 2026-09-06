@@ -13,7 +13,7 @@ My main interests lie in machine learning, deep learning, and large language mod
 
 ---
 
-# Relevant Coursework
+## Relevant Coursework
 
 - **Mathematics:** Advanced Mathematics, Linear Algebra, Probability and Mathematical Statistics
 - **Programming:** C Programming, Object-Oriented Programming
@@ -21,7 +21,7 @@ My main interests lie in machine learning, deep learning, and large language mod
 
 ---
 
-# Technical Skills
+## Technical Skills
 
 - Proficient in C, C++, and Python, with experience in algorithm problem solving
 - Self-taught in Java; familiar with basic HTML and CSS
@@ -31,7 +31,7 @@ My main interests lie in machine learning, deep learning, and large language mod
 
 ---
 
-# Research Experience
+## Research Experience
 
 I am currently involved in an undergraduate research project titled *"Research on Spine Segmentation Methods Based on Text-Image Multimodality."*
 
@@ -41,7 +41,7 @@ Going forward, I plan to explore text prompt generation methods and investigate 
 
 ---
 
-# Self-Assessment
+## Self-Assessment
 
 - **Strengths:**
   Solid foundation in mathematics and computer science. Proficient in C, C++, and Python, with the ability to complete algorithm training and basic   development tasks.
@@ -54,7 +54,7 @@ Going forward, I plan to explore text prompt generation methods and investigate 
 
 ---
 
-# Three-Year Plan
+## Three-Year Plan
 
 Over the next three years, my primary goal is to earn admission to a stronger program for graduate studies, where I can further develop my research and engineering capabilities.
 
