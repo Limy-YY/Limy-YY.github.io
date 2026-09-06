@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mingyuan Li"
+title                    : "Mingyuan Li/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Mingyuan Li"
 description              : &description "Junior at College of Computer and Data Science, Fuzhou University"   # Update this with a general description of your site, this is the default if not overridden by a page
