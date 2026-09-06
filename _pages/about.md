@@ -59,10 +59,13 @@ Going forward, I plan to explore text prompt generation methods and investigate 
 Over the next three years, my primary goal is to earn admission to a stronger program for graduate studies, where I can further develop my research and engineering capabilities.
 
 - **Year 1: Build Foundations and Gain Research Experience**
+
   Continue strengthening my knowledge in mathematics, algorithms, and core CS courses, while actively participating in research projects to improve my skills in paper reading, model reproduction, and experimental analysis.
 
 - **Year 2: Clarify Direction and Improve Practical Skills**
+  
   Based on my research interests and project experience, I will narrow down my focus. If I lean towards research, I will prioritize paper implementation and academic writing; if I lean towards engineering, I will build my skills through project development and competitions.
 
 - **Year 3: Reach Milestone Goals**
+  
   Aim to join a higher-level academic platform and develop a more complete skill set, whether in research or engineering, laying a solid foundation for my future career.
